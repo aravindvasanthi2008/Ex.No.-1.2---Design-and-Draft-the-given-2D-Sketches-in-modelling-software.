@@ -10,32 +10,37 @@
  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
  
  ## PROCEDURE
- 1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
- 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+
+* Launch Autodesk Fusion 360 and create a new design file.
+
+* Click on Create Sketch and select a suitable plane (XY, XZ, or YZ).
+
+* Use sketching tools such as Line, Circle, Arc, and Rectangle to draw the given figure.
+
+* Apply the required dimensions using the Sketch Dimension tool.
+
+* Check the drawing carefully to ensure all dimensions and shapes match the given design.
+
+* Click Finish Sketch to complete the drawing.
+
+* Save the design file for future reference and submission.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+
+ 	After finishing the sketch switch with dimension
  
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
- 
- 5.	Use inspect feature to measure the dimensions of sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
- 
- 6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
- 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
- 
+
+<img width="1200" height="652" alt="image" src="https://github.com/user-attachments/assets/3cb4d81c-9a33-4a5a-ba44-087fa921ba0b" />
+
  
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ 
+ <img width="812" height="582" alt="image" src="https://github.com/user-attachments/assets/692a3b69-1d15-48ba-b609-739c5969e786" />
+ 
+<img width="951" height="671" alt="image" src="https://github.com/user-attachments/assets/451c21ca-1891-43ce-9d24-6f8c3560abe3" />
+
  
  
  ## RESULT

@@ -26,14 +26,7 @@
 * Save the design file for future reference and submission.
  
 
- 	After finishing the sketch switch with dimension
- 
 
-<img width="1200" height="652" alt="image" src="https://github.com/user-attachments/assets/3cb4d81c-9a33-4a5a-ba44-087fa921ba0b" />
-
- 
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
  
@@ -44,4 +37,4 @@
  
  
  ## RESULT
- Thus the given sketch is drawn and drafted using fusion 360 tool.
+ Thus the given sketch is drawn and drafted using Autodesk fusion 360 tool.

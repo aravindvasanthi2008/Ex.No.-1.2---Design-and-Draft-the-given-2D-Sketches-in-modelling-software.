@@ -18,10 +18,7 @@ Step 1:
      1. Switch on the computer and open Autodesk Fusion 360.
      2. Select New Design to create a new drawing.
      3. Click on Create Sketch from the toolbar.
-
-     <img width="1027" height="652" alt="Screenshot 2026-11-16 100034" src="https://github.com/user-attachments/assets/b70903b1-f15e-435d-8d49-2e44574c7554" />
-
-
+     <img width="1027" height="652" alt="Screenshot 2026-11-16 100034" src="https://github.com/user-attachments/assets/d16d143e-2b1e-4e36-904a-b1c59ad01cd7" />
 
 Step 2: Select the Sketch Plane
 
